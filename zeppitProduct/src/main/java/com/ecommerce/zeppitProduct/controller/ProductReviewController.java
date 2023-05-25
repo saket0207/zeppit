@@ -1,6 +1,5 @@
 package com.ecommerce.zeppitProduct.controller;
 
-import com.ecommerce.zeppitProduct.entity.ProductImage;
 import com.ecommerce.zeppitProduct.entity.ProductReview;
 import com.ecommerce.zeppitProduct.model.ApiResponse;
 import com.ecommerce.zeppitProduct.service.ProductReviewService;
